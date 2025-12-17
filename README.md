@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="modules/addons/logo.png" alt="Scantra Logo" width="300">
+</div>
+
 # Scantra Phishing Detection Module for WHMCS
 
 A comprehensive WHMCS addon module that integrates with Scantra's API to provide automated phishing detection and domain management for hosting providers.
